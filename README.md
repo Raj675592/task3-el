@@ -12,7 +12,7 @@ npm install --save-dev nodemon
 Create server.js file with the provided code
 Start the server:
 npm start
-# or for development with auto-restart:
+#### or for development with auto-restart:
 npm run dev
 
 
