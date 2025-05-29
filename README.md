@@ -1,17 +1,17 @@
-Setup Instructions
+## Setup Instructions
 
-Initialize the project:
-bashmkdir books-api
+### Initialize the project:
+mkdir books-api
 cd books-api
 npm init -y
 
 Install dependencies:
-bashnpm install express
+npm install express
 npm install --save-dev nodemon
 
 Create server.js file with the provided code
 Start the server:
-bashnpm start
+npm start
 # or for development with auto-restart:
 npm run dev
 
